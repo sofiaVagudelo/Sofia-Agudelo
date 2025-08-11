@@ -1,7 +1,7 @@
 # 👩‍💻 Sofia Vargas Agudelo
 
 ## 📌 Sobre mí
-Profesional en formación en **Análisis y Desarrollo de Software** con experiencia en documentación, desarrollo y pruebas de soluciones tecnológicas. Me apasiona transformar ideas en software funcional, escalable y fácil de mantener.
+Tecnica en **Análisis y Desarrollo de Software** desarrollo y pruebas de soluciones tecnológicas. Me apasiona transformar ideas en software funcional, escalable y fácil de mantener.
 
 ---
 
@@ -51,6 +51,4 @@ Profesional en formación en **Análisis y Desarrollo de Software** con experien
 ---
 
 ## 💬 Contacto
-📧 **Email:** tuemail@example.com  
-🌐 **Portafolio:** [https://tuportafolio.com](https://tuportafolio.com)  
-💼 **LinkedIn:** [https://linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+📧 **Email:** svargasagu@gmail.com
